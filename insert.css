@@ -1,0 +1,38 @@
+.div1{
+        border: 2px solid black;
+        width: 700px;
+        margin-left: 350px;
+        padding: 30px;
+      }
+      label{
+       font-size: 23px;
+       font-weight: bold;
+      }
+      #product_name,#product_price{
+        width: 300px;
+        padding: 7px;
+        margin-top: 10px;
+        font-size: 18px;
+      }
+      #product_details{
+        width: 500px;
+        height: 200px;
+        margin-top: 10px;
+      }
+      #product_image{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 10px;
+      }
+      #insert{
+        font-size: 20px;
+        font-weight: bold;
+        padding: 6px;
+        width: 150px;
+        color: white;
+        background-color: blue;
+        border: 1px solid blue;
+        margin-left: 250px;
+        border-radius: 5px;
+
+      }
